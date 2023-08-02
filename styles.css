@@ -46,19 +46,23 @@ li {
   margin-bottom: 20px;
 }
 
+
 .btn.btn-success {
   width: 100%;
   margin-bottom: 20px;
 }
 
+
 .search-form button {
 display: inline-block;
 vertical-align: top;
 }
+
 a,
 p {
   display: block;
   margin: 0 auto;
   text-align: center;
 }
+
 
