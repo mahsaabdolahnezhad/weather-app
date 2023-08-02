@@ -53,3 +53,7 @@ li {
 display: inline-block;
 vertical-align: top;
 }
+.git-link{
+  text-align: center ;
+  padding: 15px;
+  margin: 20px auto;
