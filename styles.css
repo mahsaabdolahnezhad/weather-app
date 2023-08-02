@@ -45,15 +45,20 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
-
-.btn btn-success w-100 {
-    margin-bottom: 20px;
+.a,
+.p {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
 }
+.btn.btn-success {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+
 .search-form button {
 display: inline-block;
 vertical-align: top;
 }
-.git-link{
-  text-align: center ;
-  padding: 15px;
-  margin: 20px auto;
+
